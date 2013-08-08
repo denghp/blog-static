@@ -13,8 +13,8 @@ meta:
         name: 
         email: denghp@126.com
 
-static_url: http://demi-panda.com/jekyll_demo
-url: http://demi-panda.com/jekyll_demo 
+static_url: /jekyll_demo
+url: 
 baseurl: /jekyll_demo
 markdown: rdiscount
 pygments: true
