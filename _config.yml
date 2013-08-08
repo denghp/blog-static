@@ -13,9 +13,9 @@ meta:
         name: 
         email: denghp@126.com
 
-static_url:  
-url: 
-baseurl: 
+static_url: http://demi-panda.com/jekyll_demo
+url: http://demi-panda.com/jekyll_demo 
+baseurl: http://demi-panda.com/jekyll_demo
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title
