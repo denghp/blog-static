@@ -15,7 +15,7 @@ meta:
 
 static_url: http://demi-panda.com/jekyll_demo
 url: http://demi-panda.com/jekyll_demo 
-baseurl: http://demi-panda.com/jekyll_demo
+baseurl: /jekyll_demo
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title
