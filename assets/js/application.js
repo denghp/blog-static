@@ -22,8 +22,11 @@
     })
 
     // make code pretty
-    window.prettyPrint && prettyPrint()
-
+    //window.prettyPrint && prettyPrint()
+      $(window).load(function(){
+          $("pre").addClass("prettyprint");
+          prettyPrint();
+      })
     // add-ons
     $('.add-on :checkbox').on('click', function () {
       var $this = $(this)
